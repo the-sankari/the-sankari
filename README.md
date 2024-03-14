@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Kajol Sutra Dhar</h1>
 <h3 align="center">A passionate full stack developer from Finland</h3>
-<img align="right" width="400" src="https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif" alt="coding image" />
+<img align="right" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="coding image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-sankari&label=Profile%20views&color=0e75b6&style=flat" alt="the-sankari" /> </p>
 
