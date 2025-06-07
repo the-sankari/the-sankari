@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React,Drupal**
 
-- 👨‍💻 All of my projects are available at [https://the-sankari.github.io/kajol-sutra-dhar/](https://the-sankari.github.io/kajol-sutra-dhar/)
+- 👨‍💻 All of my projects are available at [https://kajol-sutra-dhar.vercel.app/](https://kajol-sutra-dhar.vercel.app/)
 
 - 💬 Ask me about **JS, Java**
 
